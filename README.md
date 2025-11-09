@@ -1,4 +1,4 @@
-# aAlas (RecoDR): Bilingual AI Voice-to-Text Learning Aid
+# RecoDR: Bilingual AI Voice-to-Text Learning Aid
 
 **GitHub Repository:** `https://github.com/amany222/aAlas-DES646-project`
 
@@ -8,7 +8,7 @@ A real-time, bilingual (English/Hindi), on-device AI system that transcribes liv
 
 For students with hearing impairments, the fast-paced, verbal environment of a traditional classroom presents a major accessibility barrier. Live lectures, discussions, and presentations are inaccessible. Traditional solutions like human interpreters or post-processed captions often lack immediacy, are costly, or are simply unavailable. This project directly addresses the need for an immediate, reliable, and on-demand communication bridge.
 
-## 2\. Our Solution: aAlas (RecoDR)
+## 2\. Our Solution: RecoDR
 
 **aAlas** is a real-time, local-first AI pipeline that runs entirely on a standard laptop (no internet required). It provides a two-way communication bridge:
 
